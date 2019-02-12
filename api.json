@@ -1,0 +1,31 @@
+{
+ 
+"alunos":[
+ 
+  {
+ 
+  "id": 1,
+ 
+  "name": "Stuarte"
+ 
+  },
+
+  {
+ 
+  "id": 2,
+ 
+  "name": "Waltson"
+ 
+  },
+
+  {
+ 
+  "id": 3,
+ 
+  "name": "Fulano"
+ 
+  }
+ 
+]
+ 
+}
